@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    width: 100%;
+    height: 200px;
+    background-image: url("banner_image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-position: fixed;
+}
